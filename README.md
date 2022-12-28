@@ -29,3 +29,10 @@
                            `._.-" `.  ;                 
                                     `-'
 ```
+# 𝗛ey
+My name is 0x3Anthony ⛺️ 📷 🏊🏻 🧚 👨‍💻‍
+> A Creator & Builder、Crypto Artist、Photographer、Independent Designer、Full Stack Developer、Engineer、Producer、Touring Blogger etc.
+
+## Time Machine
+
+![qian's github stats](https://github-readme-stats.vercel.app/api?username=0x3Anthony&show_icons=true&theme=tokyonight)
